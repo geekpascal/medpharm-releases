@@ -1,6 +1,6 @@
 {
-  "version": "1.3.6",
-  "notes": "Fixes update SSL certificate errors and BOM JSON parsing. Per-product low stock + Low Stock page.",
-  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.6/MedPharm-Windows.zip",
-  "sha256": "4638438141ab7bfe0a47cf26d9318b7d6ca14657cc0f3d2979f75b5e82e9e387"
+  "version": "1.3.7",
+  "notes": "Background updates (non-blocking), more reliable downloads with retries, SSL-safe checks.",
+  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.7/MedPharm-Windows.zip",
+  "sha256": "45ee2d4f894430b75e8afcc38ebdb1fdaafb77e4f08fce29199ebadbe99d1ac7"
 }
