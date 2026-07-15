@@ -1,6 +1,6 @@
 {
-  "version": "1.3.12",
-  "notes": "Header refresh icons, Sales Reports alignment, Settings button polish, accent update button styling.",
-  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.12/MedPharm-Windows.zip",
-  "sha256": "2ef74e976334368497dc47cb55c0da85168746c6aef218e8c9cb92fcd0e17327"
+  "version": "1.3.13",
+  "notes": "POS cart discount, wider cart, scroll fix, report empty-state icons, Settings and sidebar polish.",
+  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.13/MedPharm-Windows.zip",
+  "sha256": "7895d39ad124731231d719ea1ad9d3afd4c8e015c947af61e73cd22aff913a89"
 }
