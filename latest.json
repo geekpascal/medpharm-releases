@@ -1,6 +1,1 @@
-{
-  "version": "1.3.13",
-  "notes": "POS cart discount, wider cart, scroll fix, report empty-state icons, Settings and sidebar polish.",
-  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.13/MedPharm-Windows.zip",
-  "sha256": "7895d39ad124731231d719ea1ad9d3afd4c8e015c947af61e73cd22aff913a89"
-}
+{"sha256":"3fcf84fba78fe1a47297dac8d8321b185c02465b057889170cdcc3319bbccf2a","url":"https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.14/MedPharm-Windows.zip","version":"1.3.14","notes":"Light mode polish: status badge borders, Check for updates button, and POS add-to-cart colors."}
