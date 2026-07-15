@@ -1,6 +1,6 @@
 {
-  "version": "1.3.9",
-  "notes": "Full-width update banner, silent updater (no console flash), touch-friendly table scrolling.",
-  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.9/MedPharm-Windows.zip",
-  "sha256": "d6ff0d58bfd1edc758e1757775f51106fe90990eb3ed6a7bf14cc13328862897"
+  "version": "1.3.10",
+  "notes": "Orange Check for updates button, no table/card hover overlays, POS search divider.",
+  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.10/MedPharm-Windows.zip",
+  "sha256": "d75e3177aad407b33c92458b7989c549d90f4b142a5e6dcf6718536033241178"
 }
