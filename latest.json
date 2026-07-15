@@ -1,6 +1,6 @@
 {
-  "version": "1.3.10",
-  "notes": "Orange Check for updates button, no table/card hover overlays, POS search divider.",
-  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.10/MedPharm-Windows.zip",
-  "sha256": "d75e3177aad407b33c92458b7989c549d90f4b142a5e6dcf6718536033241178"
+  "version": "1.3.11",
+  "notes": "Reports charts (donut + period compare), cancel icon, compact POS controls, custom Clear/Checkout/Update icons, form field polish.",
+  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.11/MedPharm-Windows.zip",
+  "sha256": "7e58d7845a604190df149a4fbcd0a5d3d8e0f3247a96e4d4849840a20c601ee5"
 }
