@@ -1,6 +1,6 @@
 {
-  "version": "1.3.8",
-  "notes": "S/N columns on list tables, restock products, Check for updates beside manifest URL.",
-  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.8/MedPharm-Windows.zip",
-  "sha256": "0ac1ca46fdf5a4f75779962440c711d67dc1e1226540314ab0b3d2384282c7e3"
+  "version": "1.3.9",
+  "notes": "Full-width update banner, silent updater (no console flash), touch-friendly table scrolling.",
+  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.9/MedPharm-Windows.zip",
+  "sha256": "d6ff0d58bfd1edc758e1757775f51106fe90990eb3ed6a7bf14cc13328862897"
 }
