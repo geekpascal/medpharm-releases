@@ -1,6 +1,6 @@
 {
-  "version": "1.3.21",
-  "notes": "Retail/wholesale pricing, smoother POS toggle, barcode save fix, and Thermal/A4 receipt printing.",
-  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.21/MedPharm-Windows.zip",
-  "sha256": "5b71dbcd6cf14ba83839bafd4fc503c1487d0940cf909d3bef93f6136f2fc81f"
+  "version": "1.3.22",
+  "notes": "Windows setup wizard with Desktop and Start Menu shortcuts. Portable zip still available for updates.",
+  "url": "https://github.com/geekpascal/medpharm-releases/releases/download/v1.3.22/MedPharm-Windows.zip",
+  "sha256": "64969e39e8533585c58b2c3f3933286fdf05c99042a060a9db8080166286838b"
 }
